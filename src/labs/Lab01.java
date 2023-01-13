@@ -63,7 +63,9 @@ public class Lab01 {
 		public static void problem4() {
 		
 		Scanner inKey = new Scanner(System.in);
+			
 			int input = -1;
+			
 			int min = Integer.MAX_VALUE;
 			int max = Integer.MIN_VALUE;
 			
